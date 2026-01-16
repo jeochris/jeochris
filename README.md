@@ -1,6 +1,6 @@
 Hello, I'm Jaehyun Jeon! 👋
 
-I am a Research Engineer at Chatbot Service Division in [NC AI](https://nc-ai.com/).
+I am a Research Engineer at DialogTech Team in [NC AI](https://nc-ai.com/).
 
 Previously, I worked at Language Lab, [LG AI Research](https://www.lgresearch.ai/). I received my M.S. (2026) and B.S. (2024, with Highest Honors) in Computer Science from Yonsei University, where I conducted research at MIR Lab (now [SNU PI Lab](https://pi.snu.ac.kr/)) under supervision of Prof. Youngjae Yu.
 
