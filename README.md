@@ -1,4 +1,4 @@
-Hello, I'm Jaehyun Jeon! 👋
+Hello, I'm Jaehyun! 👋
 
 I am a Research Engineer at DialogTech Team in [NC AI](https://nc-ai.com/).
 
