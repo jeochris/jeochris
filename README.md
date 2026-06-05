@@ -9,7 +9,11 @@ I'm passionate about advancing multimodal AI systems that deliver real-world imp
 Please feel free to reach out!
 
 <a href="mailto:jaehyunjeon.0126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logoColor=white&link=mailto:jaehyunjeon.0126@gmail.com"
+    <img src="https://img.shields.io/badge/Email-d14836?style=flat&logoColor=white&link=mailto:jaehyunjeon.0126@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://jeochris.github.io/">
+    <img src="https://img.shields.io/badge/Homepage-2e7d32?style=flat&logoColor=white&link=https://jeochris.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.linkedin.com/in/jaehyun-jeon-1430b5285/">
