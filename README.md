@@ -1,8 +1,8 @@
 Hello, I'm Jaehyun! 👋
 
-I am a Research Engineer at DialogTech Team in [NC AI](https://nc-ai.com/).
+I am an AI Scientist at EXAONE Lab in [LG AI Research](https://www.lgresearch.ai/).
 
-Previously, I worked at Language Lab, [LG AI Research](https://www.lgresearch.ai/). I received my M.S. (2026) and B.S. (2024, with Highest Honors) in Computer Science from Yonsei University, where I conducted research at MIR Lab (now [SNU PI Lab](https://pi.snu.ac.kr/)) under supervision of Prof. Youngjae Yu, also mentored by Prof. [Dae Hyun Kim](https://dhkim16.github.io/).
+Previously, I worked at DialogTech Team in [NC AI](https://nc-ai.com/), and at Language Lab in LG AI Research. I received my M.S. (2026) and B.S. (2024, with Highest Honors) in Computer Science from Yonsei University, where I conducted research at MIR Lab (now [SNU PI Lab](https://pi.snu.ac.kr/)) under supervision of Prof. Youngjae Yu, also mentored by Prof. [Dae Hyun Kim](https://dhkim16.github.io/).
 
 I'm passionate about advancing multimodal AI systems that deliver real-world impact across diverse applications!
 
